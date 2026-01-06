@@ -1,22 +1,18 @@
-## Hi there 👋
+## 👋 Hi there
 
-- 🔭 I’m currently working on Brawl Legend
-- 🌱 I’m currently learning Computer Science
-- 🤔 I’m not looking for help
-- 📫 How to reach me: dm wlraven on Discord
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like sushi
-<!--
-**CorporalCrow/CorporalCrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm Jason Chen, currently a computer science major with a focus on artificial intelligence and a math minor at Oregon State University. I'm interested in and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+---
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<details>
+  <summary>Currently Learning</summary>
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+</details>
