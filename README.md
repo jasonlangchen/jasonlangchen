@@ -16,7 +16,7 @@ I'm Jason Chen, currently a computer science major with a focus on artificial in
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?&style=plastic&logo=Proxmox&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=Proxmox&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
