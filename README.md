@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I'm Jason Chen, currently a computer science major with a focus on artificial intelligence and a math minor at Oregon State University. I'm interested in and learning new technologies.
+I'm Jason Chen, a student studying computer science and mathematics with a focus on artificial intelligence at Oregon State University. I'm always looking to learn more technologies!
 
 ## 💻 Technologies
 
